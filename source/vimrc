@@ -41,6 +41,10 @@ set tags=.tags;/
 set cursorline
 " }}}
 
+" Mouse {{{
+set mouse=a
+" }}}
+
 " Undo {{{
 set undofile
 set undodir=~/.vim/undo//

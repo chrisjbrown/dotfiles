@@ -4,7 +4,7 @@ Common configuration files and handy scripts to use when setting up or improving
 
 ## Installation
 ```shell
-$ git clone https://github.com/daneah/dotfiles
+$ git clone https://github.com/chrisjbrown/dotfiles
 $ cd dotfiles
 $ git submodule update --init --recursive
 $ ./install.zsh

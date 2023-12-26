@@ -50,7 +50,7 @@
     rebase = false
 
 [user]
-    name = Dane Hillard
-    email = github@danehillard.com
+    name = Christopher Brown
+    email = github@chrisjbrown.com
 [init]
 	defaultBranch = main
