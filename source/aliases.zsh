@@ -24,7 +24,10 @@ alias spsh='spotify toggle shuffle'
 alias sprp='spotify toggle repeat'
 
 # git
-alias galias='git config --get-regexp ^alias'
+alias galias='ack git source/aliases.zsh'
+alias gss='git stash save'
+alias gsa='git stash apply'
+alias gaa='git add .'
 alias upfork='git fetch upstream; git checkout master; git merge upstream/master'
 alias gdi='git diff --ignore-all-space'
 alias gcb='git checkout -b'
